@@ -6,4 +6,4 @@
 >  배리어프리에 더 가까워진 사용법
 
    
-* Author> https://github.com/Seo-Yegyeong "GitHub"
+* GitHub: <https://github.com/Seo-Yegyeong>
